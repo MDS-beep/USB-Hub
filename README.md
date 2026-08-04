@@ -100,11 +100,11 @@ A custom enclosure was designed to:
 
 ### PCB Render
 
-> Add top and bottom PCB renders.
+![PCB_3D](Images/PCB_3D.png)
 
 ### 3D Enclosure
 
-> Add a render of the enclosure.
+![3D](Images/3D.png)
 
 ### Finished Device
 
